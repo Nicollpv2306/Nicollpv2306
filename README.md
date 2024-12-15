@@ -2,7 +2,7 @@
 
 
 ### :large_blue_diamond: Sobre Mi
-Estudiante del 5to ciclo de la carrera de Computación e Informática en el Instituto Cibertec, con un fuerte interés en el desarrollo de software y la tecnología. Busco activamente oportunidades de prácticas y empleo en el campo de la informática para aplicar mis conocimientos y continuar creciendo profesionalmente.
+Estudiante del 6to ciclo de la carrera de Computación e Informática en el Instituto Cibertec, con un fuerte interés en el desarrollo de software y la tecnología. Busco activamente oportunidades de prácticas y empleo en el campo de la informática para aplicar mis conocimientos y continuar creciendo profesionalmente.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 ### :eight_spoked_asterisk: Experiencia y Conocimientos
@@ -24,17 +24,3 @@ Estudiante del 5to ciclo de la carrera de Computación e Informática en el Inst
 #### ¡Gracias por tomarte el tiempo para visitar mi perfil!
 Estoy deseando participar en proyectos innovadores y seguir desarrollándome profesionalmente en el ámbito de la tecnología. Si tienes alguna oportunidad de colaboración o cualquier consulta relacionada con mi área de estudio, no dudes en contactarme.
 
-<!--
-**Nicollpv2306/Nicollpv2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
